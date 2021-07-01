@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+
+#titlename{
+    font-size: x-large;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px; 
+    display: block;
+    margin-left: 805px;
+    border-radius: 500px;
+}
+
+.Address{
+    text-align: center;
+}
+
+a.one{
+    display: block;
+    text-align: center;
+}
