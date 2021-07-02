@@ -1,28 +1,29 @@
-html{
+html {
     background-color: whitesmoke;
 }
-h1{
+
+h1 {
     text-align: center;
 }
 
-#titlename{
+#titlename {
     font-size: x-large;
     text-align: center;
 }
 
-img{
+img {
     width: 200px;
-    height: 200px; 
+    height: 200px;
     display: block;
-    margin-left: 805px;
+    margin-left: 650px;
     border-radius: 500px;
 }
 
-.Address{
+.Address {
     text-align: center;
 }
 
-a.one{
+a.one {
     display: block;
     text-align: center;
 }
