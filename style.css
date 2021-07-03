@@ -38,10 +38,12 @@ a {
 
 .tdd{
     text-align: center;
+    border: 2px solid lightslategray;
+
 }
 
 th {
-    border-bottom: 2px dashed lightslategray;
+    border-bottom: 2px solid lightslategray;
 }
 
 li{
