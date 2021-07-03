@@ -1,37 +1,49 @@
-h1{
+h1 {
     color: darkblue;
-    font-weight: normal; 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 35px;
 }
 
-h3{
+h3 {
     color: darkblue;
-    font-weight: normal; 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 35px;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-#DP{
+#DP {
     border: 1px solid lightslategray;
 }
 
-#email, #tableau{
+#email,
+#tableau {
     text-decoration: underline;
 }
 
-#twolinegap{
+#twolinegap {
     border: 2px solid darkblue;
 }
 
-#langtable{
+#langtable {
     border: 2px solid lightslategray;
+    table-layout: fixed;
+    width: 100%;
+    
 }
 
-th{
+.tdd{
+    text-align: center;
+}
+
+th {
     border-bottom: 2px dashed lightslategray;
+}
+
+li{
+    line-height: 30px;
 }
